@@ -11,4 +11,4 @@ A scikit-learn ML project utilising NASA exoplanet data to determine which exopl
 
 # Conclusion
 
-Another scikit-learn project, utlising ML models to predict hability. Another project that I learnt a lot from, this was one of my first ML projects and was great to practice on a NASA dataset. Hopefully I will be able to explore some further astro datasets in future and utilise different ML libraries.
+Another scikit-learn project, utlising ML models to predict hability. Another project that I learnt a lot from, this was one of my first ML projects and was great to practice on a NASA dataset. There are not doubt an awful lot of awesome space datasets to explore. Definitely something that I would like to revisit in future.
