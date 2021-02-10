@@ -7,7 +7,7 @@ A scikit-learn ML project utilising NASA exoplanet data to determine which exopl
 
 # Notebook
 
-1. [Exoplanet Data.ipynb](Exoplanet Data.ipynb) notebook containing analysis of the dataset.
+1. [Exoplanet-Data.ipynb](Exoplanet-Data.ipynb) notebook containing analysis of the dataset.
 
 # Conclusion
 
