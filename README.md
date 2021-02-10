@@ -3,4 +3,4 @@ A scikit-learn ML project utilising NASA exoplanet data to determine which exopl
 
 # Data
 
-1. 
+1. [Filteredexoplanets2.csv](Filteredexoplanets2.csv)
